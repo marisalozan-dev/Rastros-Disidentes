@@ -1,34 +1,101 @@
-Rastros Disidentes — Memoria LGTBI a través de datos y archivos
-Rastros Disidentes es una línea de investigación dentro del proyecto Memoria Algorítmica, donde combino archivística, análisis de datos y humanidades digitales para reconstruir la historia de la represión LGTBI en España.
+# Rastros Disidentes · Memoria LGTBI a través de datos y archivos 🏳️‍🌈
 
-Durante décadas, miles de personas fueron perseguidas bajo leyes como:
+**Rastros Disidentes** es una línea de investigación dentro del proyecto _Memoria Algorítmica_, donde combino archivística, análisis de datos y humanidades digitales para reconstruir la memoria de las personas LGTBI perseguidas en España durante el franquismo y la Transición.
 
-la Ley de Vagos y Maleantes (1954)
+Como archivera, sé que los documentos no solo cuentan lo que ocurrió:  
+**también revelan lo que se quiso ocultar.**
 
-la Ley de Peligrosidad y Rehabilitación Social (1970)
+Este repositorio recoge datasets, notebooks, visualizaciones y herramientas reproducibles para explorar esa memoria desde los datos.
 
-Sus vidas quedaron registradas en expedientes policiales, informes judiciales, fichas carcelarias y documentos administrativos.
-Pero esos archivos están incompletos, fragmentados o directamente silenciados.
+---
 
-Como archivera, sé que los vacíos documentales no son errores:
-son la huella de lo que se quiso borrar.
+## 🎯 Objetivos del proyecto
 
-Este proyecto busca:
+- **Localizar y estructurar fuentes dispersas**  
+  Expedientes policiales, archivos penitenciarios, prensa histórica, testimonios orales, datasets abiertos.
 
-🔹 1. Localizar, limpiar y estructurar datasets dispersos
-Registros judiciales, archivos policiales, documentación penitenciaria, prensa histórica, testimonios orales.
+- **Analizar patrones de represión y vigilancia**  
+  Perfiles socioeconómicos, distribución geográfica, tipologías de condena, redes institucionales.
 
-🔹 2. Analizar patrones de represión y persecución
-Distribución geográfica, perfiles socioeconómicos, tipologías de condena, redes de vigilancia.
+- **Visualizar la memoria**  
+  Mapas, grafos, cronologías, dashboards y modelos exploratorios.
 
-🔹 3. Visualizar la memoria
-Mapas, grafos, cronologías, dashboards y modelos exploratorios.
+- **Reconstruir historias desde los datos**  
+  Porque detrás de cada registro hay una vida que merece ser contada.
 
-🔹 4. Conectar datos con historias humanas
-Porque detrás de cada registro hay una vida que merece ser contada.
+- **Crear herramientas reproducibles**  
+  Notebooks, pipelines y scripts abiertos para investigadores, archiveros y humanistas digitales.
 
-🔹 5. Crear herramientas reproducibles
-Notebooks, scripts, pipelines y visualizaciones abiertas para investigadores, archiveros y humanistas digitales.
+---
 
-Rastros Disidentes no es solo un proyecto técnico.
-Es un ejercicio de memoria, justicia y reparación desde los datos.
+## 🗂 Estructura del repositorio
+
+- **`data/raw/`**  
+  Datos en bruto, tal y como se obtienen de las fuentes originales.
+
+- **`data/processed/`**  
+  Datos limpios y transformados, listos para análisis.
+
+- **`notebooks/`**  
+  Cuadernos de exploración, análisis y visualización.
+
+- **`src/`**  
+  Código reutilizable: funciones de limpieza, transformación y utilidades.
+
+- **`assets/`**  
+  Logo, imágenes y recursos gráficos del proyecto.
+
+- **`docs/`**  
+  Documentación adicional, notas metodológicas, referencias.
+
+---
+
+## 🧪 Primeros componentes
+
+- `notebooks/01_exploracion_inicial.ipynb`  
+  Esqueleto de notebook para la primera exploración de datos.
+
+- `data/`  
+  De momento vacío. Los datasets se irán incorporando progresivamente, respetando siempre criterios éticos y legales.
+
+---
+
+## ⚖️ Ética y sensibilidad
+
+Este proyecto trabaja con datos que representan vidas reales, muchas veces marcadas por la violencia, la persecución y el silencio.
+
+- No se publicarán datos que permitan identificar directamente a personas vivas sin un marco ético y legal claro.
+- Se priorizará el contexto histórico, el rigor y el respeto.
+- Los análisis se orientan a la memoria, la justicia y la comprensión, no al sensacionalismo.
+
+---
+
+## 💻 Tecnologías previstas
+
+- **Python** (pandas, numpy, matplotlib, seaborn, networkx, etc.)
+- **Jupyter Notebooks**
+- **Visualización interactiva** (por definir: Plotly, Bokeh, Altair…)
+- **GitHub** como espacio de trabajo abierto y documentado.
+
+---
+
+## 🤝 Colaboración
+
+Si trabajas en:
+
+- memoria histórica  
+- archivística  
+- humanidades digitales  
+- datos y visualización  
+
+y te interesa este enfoque, estaré encantada de conectar.
+
+---
+
+## ✍️ Sobre mí
+
+Soy archivera de formación, con años de experiencia en instituciones públicas y privadas, y actualmente en transición hacia Big Data, analítica y diseño de productos de inteligencia documental.
+
+**Rastros Disidentes** es una forma de unir todo eso:  
+archivos, datos, memoria y tecnología.
+
