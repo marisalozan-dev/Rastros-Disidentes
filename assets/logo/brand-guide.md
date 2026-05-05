@@ -60,3 +60,56 @@ El proyecto utiliza la familia **Inter**, por su claridad, neutralidad y estéti
 
 ### **Versión principal (horizontal)**
 
+### **Versión cuadrada (para GitHub y redes)**
+
+### **Versión icono (favicon / avatar)**
+
+---
+
+## 📐 5. Proporciones y uso
+
+- Mantener siempre un margen de aire alrededor del logo.  
+- No deformar ni estirar.  
+- No cambiar los colores principales.  
+- No añadir sombras o efectos no previstos.  
+- No usar sobre fondos muy saturados sin un contenedor blanco o gris claro.
+
+---
+
+## 🖼 6. Aplicaciones recomendadas
+
+- README del repositorio  
+- Portada de notebooks  
+- Cabecera de LinkedIn  
+- Presentaciones  
+- Visualizaciones del proyecto  
+- Documentación en `docs/`  
+
+---
+
+## 🧠 7. Claim oficial del proyecto
+
+> **Datos que reconstruyen lo que el silencio intentó borrar.**
+
+---
+
+## 📁 8. Archivos incluidos
+
+- `rastros-disidentes-logo.svg`  
+- `rastros-disidentes-logo.png`  
+- `rastros-disidentes-icon.png`  
+- `brand-guide.md` (este archivo)
+
+---
+
+## © 9. Licencia de uso
+
+El logo puede utilizarse en:
+- proyectos derivados dentro de *Memoria Algorítmica*  
+- materiales de divulgación  
+- presentaciones académicas o profesionales  
+
+No se permite su uso comercial sin autorización.
+
+---
+
